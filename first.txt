@@ -1,2 +1,3 @@
 Here is my first file.
+here is a line in the middle.
 It is a wonderfule text file.
