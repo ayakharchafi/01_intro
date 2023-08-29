@@ -1,2 +1,3 @@
 Hello,it is my second file.
+You forgot the second line.
 I finished my second file.
