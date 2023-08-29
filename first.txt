@@ -1,4 +1,4 @@
 Here is my first file.
 You forgot to put a second line.
-here is a line in the middle.
+Here is a line in the middle.
 It is a wonderfule text file.
